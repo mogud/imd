@@ -1,0 +1,9 @@
+{
+	"name": "imd",
+	"authors": [
+		"mogu"
+	],
+	"description": "D interface of IM",
+	"copyright": "Copyright © 2016, mogu",
+	"license": "MIT"
+}
